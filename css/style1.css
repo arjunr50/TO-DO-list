@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-size: cover;
+    background-color: black;
+}
+header{
+    background-color: black;
+    
+}
+h1{
+    
+    margin-left: 700px; 
+}
+
+.head-tag{
+    float: right;
+    margin-top: 33px;
+    margin-right: 55px;
+    
+}
+
+.head-tag a{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: rgb(27, 19, 126);
+    border: 3px solid white;
+    padding: 8px;
+    margin-right: 10px;
+    margin-left: 10px;
+    border-color: rgb(33, 4, 161);
+    border-style:solid;
+    border-radius: 0.5cm;
+}
+.head-tag a:hover{
+    background-color: rgb(0, 128, 38);
+    color:aqua;
+    transition: 0.35s all;
+    border-color: rgb(235, 11, 4);
+    border-style:solid;
+    border-radius: 0.5cm;
+}
+#table1{
+    margin-left: auto;
+    margin-right: auto;
+    padding-left:50%;
+    color: rgb(255, 255, 255);
+    background: #000000;
+    border-collapse: collapse;
+    
+  }
